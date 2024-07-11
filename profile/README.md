@@ -232,8 +232,6 @@ OpenROAD is silicon-proven for over 1,000 in SKY130 and GF180 through
 the Google-sponsored, Efabless [MPW shuttle](https://efabless.com/open_shuttle_program),
 [ChipIgnite](https://efabless.com/) and [Tiny Tapeout](https://tinytapeout.com/) programs.
 
-![shuttle.webp](./docs/images/shuttle.webp)
-
 ## License
 
 BSD 3-Clause License. See [LICENSE](LICENSE) file.
