@@ -96,7 +96,7 @@ collaboration, partnerships on key open-source software, education, and workforc
 Our growing user community ([link](https://theopenroadproject.org/community/))
 includes hardware designers, software engineers, industry collaborators, VLSI enthusiasts,
 educators, students, and researchers.
-They have access to a dynamic [body of resources](https://theopenroadproject.org/resources/).
+They have access and can contribute to a dynamic [body of resources](https://theopenroadproject.org/resources/).
 
 OpenROAD strongly advocates and enables IC design-based education
 and workforce development initiatives through training content and
@@ -233,10 +233,6 @@ the Google-sponsored, Efabless [MPW shuttle](https://efabless.com/open_shuttle_p
 [ChipIgnite](https://efabless.com/) and [Tiny Tapeout](https://tinytapeout.com/) programs.
 
 ![shuttle.webp](./docs/images/shuttle.webp)
-
-### OpenTitan SoC on GF12LP - Physical design and optimization using OpenROAD
-
-![OpenTitan_SoC.webp](./docs/images/OpenTitan_SoC.webp)
 
 ## License
 
